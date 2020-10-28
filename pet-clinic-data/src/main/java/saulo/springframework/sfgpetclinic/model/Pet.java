@@ -1,4 +1,4 @@
-package sgvpetclinic.model;
+package saulo.springframework.sfgpetclinic.model;
 
 import java.time.LocalDate;
 
